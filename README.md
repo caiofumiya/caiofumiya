@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a new RPA system<br>🌱 I’m currently learning Python<br>📧 Contact me on caiofumiya123@gmail.com<br> 💬 Ask me about anything you need help<br>⚡ Fun fact, i started learning code using JAVA 😅😅😅
+🔭 I’m currently working on testing new technologies<br>🌱 I’m currently learning  Google ADK (Agent Development Kit)<br>📧 Contact me on caiofumiya123@gmail.com<br> 💬 Ask me about anything you need help<br>⚡ Fun fact, i started learning code using JAVA 😅😅😅
 
 
 ## 🌐 Socials:
